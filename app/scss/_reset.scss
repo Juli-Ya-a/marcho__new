@@ -33,7 +33,8 @@ dd {
   margin: 0;
 }
 
-ul[class] {
+ul,
+li[class] {
   list-style: none;
 }
 
